@@ -7,9 +7,9 @@
 </p>
 
 🙋‍♂️ Building software, growing into data and AI engineering.</br>
-📈 In my free time I follow markets and tinker with stocks for fun.</br>
+📈 In my free time I follow stock markets for fun.</br>
 🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
-🍳 Lebanese roots, quick cooking fan, collector of card and board games.</br>
+🍳 Lebanese roots, cooking fan, card collector and board games.</br>
 
 ## 🧩 Featured Projects
 [![MixnMeet](https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react)](https://web.mixnmeet.io)

@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Berlin-%F0%9F%87%A9%F0%9F%87%AA-blue" />
   <img src="https://img.shields.io/badge/Software-5%2B%20years-success" />
   <img src="https://img.shields.io/badge/Freelance-Open-informational" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" />
 </p>
 
 🙋‍♂️ Building software, growing into data and AI engineering.</br>

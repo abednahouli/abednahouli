@@ -1,34 +1,23 @@
 # 💫 About Me
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Berlin-%F0%9F%87%A9%F0%9F%87%AA-blue" />
   <img src="https://img.shields.io/badge/Software-5%2B%20years-success" />
   <img src="https://img.shields.io/badge/Freelance-Open-informational" />
 </p>
 
-<p align="center">
-  🙋‍♂️ Building software for 5 years, growing into data and AI engineering, freelancing on the side.</br>
-  📈 In my free time I follow markets and tinker with stocks for fun.</br>
-  🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
-  🍳 Lebanese roots, quick cooking fan, collector of card and board games.</br>
-</p>
+🙋‍♂️ Building software, growing into data and AI engineering.</br>
+📈 In my free time I follow markets and tinker with stocks for fun.</br>
+🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
+🍳 Lebanese roots, quick cooking fan, collector of card and board games.</br>
 
-## 🧩 Projects
-<p align="center">
-  <a href="https://web.mixnmeet.io" target="_blank">
-    <img src="https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react" />
-  </a>
-  &nbsp;
-  <a href="https://burhan.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Burhan-Open%20Site-1e90ff?logo=microbit" />
-  </a>
-</p>
-
-<p align="center">
-  ✈️ <b>MixnMeet</b> helps solo travellers connect and share activities.<br/>
-  🤖 <b>Burhan</b> explores AI search, analytics, and lightweight agent tools for businesses.
-</p>
+## 🧩 Featured Projects
+[![MixnMeet](https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react)](https://web.mixnmeet.io)
+&nbsp;
+[![Burhan](https://img.shields.io/badge/Burhan-Open%20Site-1e90ff?logo=microbit)](https://burhan.ai)
 
 
+<b>MixnMeet: </b> helps solo travellers connect and share activities.<br/>
+<b>Burhan: </b> explores AI search, analytics, and agent tools for businesses.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_hersir_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abed.nahouli.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abed_nahouli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abed-nahouli-6703841b5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@archevening1810) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abednahouli@gmail.com) 

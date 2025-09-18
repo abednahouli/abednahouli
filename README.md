@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on: a couple of small AI apps and serverless bits<br>👯 I’m looking to collaborate on: fun, scrappy products with real users<br>🤝 I’m looking for help with: honest feedback and a few warm intros<br>🌱 I’m currently learning: better systems design and practical ML<br>💬 Ask me about: AWS, serverless, and turning raw data into clear charts<br>⚡ Fun fact: I cook a lot and hoard card games
+🙋‍♂️ I’m Abed, ~5 years shipping software, pushing hard toward data and AI engineering, and I take on freelance work.</br>
+🚶 Project MixnMeet: Helping solo travellers connect and share activities.</br>
+🤖 Project Burhan: helping businesses through AI search, analytics, and agent tools.</br>
+📈 Off hours I follow markets and tinker with stocks for fun.</br>
+🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
+🍳 Lebanese roots, love quick cooking and collecting card and board games.</br>
 
 
 ## 🌐 Socials:

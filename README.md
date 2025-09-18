@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I’m Abed, ~5 years shipping software, pushing hard toward data and AI engineering, and I take on freelance work.</br>
+🙋‍♂️ 5 years shipping software, pushing hard toward data and AI engineering, and I take on freelance work.</br>
 🚶 Project MixnMeet: Helping solo travellers connect and share activities.</br>
 🤖 Project Burhan: helping businesses through AI search, analytics, and agent tools.</br>
 📈 Off hours I follow markets and tinker with stocks for fun.</br>

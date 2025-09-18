@@ -1,10 +1,33 @@
-# 💫 About Me:
-🙋‍♂️ 5 years shipping software, pushing hard toward data and AI engineering, and I take on freelance work.</br>
-🚶 Project MixnMeet: Helping solo travellers connect and share activities.</br>
-🤖 Project Burhan: helping businesses through AI search, analytics, and agent tools.</br>
-📈 Off hours I follow markets and tinker with stocks for fun.</br>
-🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
-🍳 Lebanese roots, love quick cooking and collecting card and board games.</br>
+# 💫 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Berlin-%F0%9F%87%A9%F0%9F%87%AA-blue" />
+  <img src="https://img.shields.io/badge/Software-5%2B%20years-success" />
+  <img src="https://img.shields.io/badge/Freelance-Open-informational" />
+</p>
+
+<p align="center">
+  🙋‍♂️ Building software for 5 years, growing into data and AI engineering, freelancing on the side.</br>
+  📈 In my free time I follow markets and tinker with stocks for fun.</br>
+  🛠️ Daily stack: 15+ AWS services, ReactJS, NodeJS, Cypress, Jest.</br>
+  🍳 Lebanese roots, quick cooking fan, collector of card and board games.</br>
+</p>
+
+## 🧩 Projects
+<p align="center">
+  <a href="https://web.mixnmeet.io" target="_blank">
+    <img src="https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react" />
+  </a>
+  &nbsp;
+  <a href="https://burhan.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Burhan-Open%20Site-1e90ff?logo=microbit" />
+  </a>
+</p>
+
+<p align="center">
+  ✈️ <b>MixnMeet</b> helps solo travellers connect and share activities.<br/>
+  🤖 <b>Burhan</b> explores AI search, analytics, and lightweight agent tools for businesses.
+</p>
+
 
 
 ## 🌐 Socials:

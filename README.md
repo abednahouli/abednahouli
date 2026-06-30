@@ -12,9 +12,9 @@
 🍳 Lebanese roots, cooking fan, card collector and board games.</br>
 
 ## 🧩 Featured Projects
-[![MixnMeet](https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react)](https://web.mixnmeet.io)
+[![MixnMeet](https://img.shields.io/badge/MixnMeet-Open%20Site-1e90ff?logo=react)](https://mixnmeet.io)
 &nbsp;
-[![Burhan](https://img.shields.io/badge/Burhan-Open%20Site-1e90ff?logo=microbit)](https://burhan.ai)
+![Burhan](https://img.shields.io/badge/Burhan-Open%20Site-1e90ff?logo=microbit)
 
 
 <b>MixnMeet: </b> helps solo travellers connect and share activities.<br/>
